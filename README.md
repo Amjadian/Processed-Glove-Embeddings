@@ -7,6 +7,6 @@ as text files.
 I have made them available in this repository as Python hashed dictionary files to query instantaneously. 
 Find the query script in this repository to querry any word present in the most complete version of the GloVe embeddings.
 
-# steps to query the word embeddings
+# Steps to query the word embeddings
 * download the GloVe dictionaries from here: 
 * query any word using the "query" script provided here in this repository
