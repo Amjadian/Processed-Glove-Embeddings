@@ -13,9 +13,9 @@ for f_name in file_names:
             break
 
 if(len(embedding_vector == 0)):
-	print("Queried word not found!")
+    print("Queried word not found!")
 else:
-	print("Queried vector:", str(embedding_vector))
+    print("Queried vector:", str(embedding_vector))
     # The embedding is a list that holds the stored vector values as text
     # let's convert them into a numpy array of floats.
     embedding_vector = np.array(embedding_vector, np.float32)
