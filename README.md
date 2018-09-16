@@ -12,6 +12,6 @@ I have made the GloVe vectors available in this repository as Python hashed dict
 Find the query script in this repository to querry any word present in the most complete version of the GloVe embeddings.
 
 # Steps to query the word embeddings
-* Download the GloVe dictionaries from here: https://drive.google.com/drive/folders/1MShc-ebib-04jJssSJXsKJ854zLgT0MO?usp=sharing
+* Download the GloVe dictionaries from here: https://drive.google.com/drive/folders/1WrizByDPOHoRXQXtXTqRj9WonrA-FTVk?usp=sharing
 * Query any word using the "query.py" script provided in this repository
 * The embedding vector retrieved is a list that holds string-valued components which the script casts to a numpy array of type float32
