@@ -1,5 +1,6 @@
 # Processed-Glove-Embeddings
 Glove embeddings processed into hashed Python dictionaries for quick retrieval of the embeddings.
+
 ## Some background information
 GloVe vectors are prepared by Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014, 
 "GloVe: Global Vectors for Word Representation." and here's the link to the paper if you'd like to know the details of how they  were built: https://nlp.stanford.edu/pubs/glove.pdf
