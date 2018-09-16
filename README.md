@@ -9,4 +9,4 @@ Find the query script in this repository to querry any word present in the most 
 
 # Steps to query the word embeddings
 * download the GloVe dictionaries from here: 
-* query any word using the "query" script provided here in this repository
+* query any word using the "query.py" script provided in this repository
