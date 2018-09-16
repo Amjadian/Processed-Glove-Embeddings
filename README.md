@@ -13,3 +13,4 @@ Find the query script in this repository to querry any word present in the most 
 # Steps to query the word embeddings
 * download the GloVe dictionaries from here: 
 * query any word using the "query.py" script provided in this repository
+* the embedding retrieved is a list that holds string valued components which the script casts to a numpy array of type float32
